@@ -2,8 +2,11 @@
   <img src="https://github.com/user-attachments/assets/279348ec-0c15-46cd-a4e1-bb29a9dc9ad5" alt="pacman">
 </p>
 
-
-<h2> Hey, I'm Rafael Moraes! :vulcan_salute:</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Hi,+I'm+Rafael+Moraes!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
 I'm software developer, currently working on an academic research project.
 
