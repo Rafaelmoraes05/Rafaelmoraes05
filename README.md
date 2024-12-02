@@ -1,4 +1,7 @@
-![pacman](https://github.com/user-attachments/assets/279348ec-0c15-46cd-a4e1-bb29a9dc9ad5)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/279348ec-0c15-46cd-a4e1-bb29a9dc9ad5" alt="pacman">
+</p>
+
 
 <h2> Hey, I'm Rafael Moraes! :vulcan_salute:</h2>
 
@@ -16,6 +19,49 @@ You can find me on:
 * Gradle, Maven
 * MySQL, MongoDB, Postgres, TimeStream
 * AWS, Firebase
+
+#
+
+<details open>
+<summary><b> Projects :point_right:</b></summary>
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Skills used</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://github.com/Rafaelmoraes05/ReportSystem'>ReportSystem</a></td>
+      <td>Java, SpringRest, MySql</td>
+      <td>API for an occurrence monitoring system in factories and industries</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/Rafaelmoraes05/iCabueta'>iCabueta</a></td>
+      <td>Java Servlets, TagsLib</td>
+      <td>CRUD using Java Web with Servlets</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/Rafaelmoraes05/WeatherApp'>WeatherApp</a></td>
+      <td>Kotlin and Firebase</td>
+      <td>Mobile app </td>
+    </tr>
+     <tr>
+      <td><a href='https://github.com/Rafaelmoraes05/Sistema_de_Comandas_VueJs'>Sistema de Comandas VueJs</a></td>
+      <td>VueJs. Render and Vercel</td>
+      <td>command management web application</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/Rafaelmoraes05/WebInterfaceMQTT'>WebInterfaceMQTT</a></td>
+      <td>Node, Express, Python</td>
+      <td>An application that displays MQTT messages received and stored in an SQLite database</td>
+    </tr>
+    
+  </tbody>
+</table>
+</details>
 
 ## &#x1f4c8; GitHub Stats
 
