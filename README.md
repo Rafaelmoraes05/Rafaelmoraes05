@@ -26,3 +26,10 @@ You can find me on:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelmoraes05&show_icons=true&&theme=dracula" alt="Rafael GitHub Stats" />
 </a>
 
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelmoraes05/rafaelmoraes05/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaelmoraes05/rafaelmoraes05/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rafaelmoraes05/rafaelmoraes05/output/github-contribution-grid-snake.svg">
+</picture>
