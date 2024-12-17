@@ -16,7 +16,7 @@ You can find me on:
 
 ## 🔧 Programming Skills
 * Java 8, 17, 20, 21
-* SpringBoot
+* Spring
 * Node.js
 * Vue.js
 * Gradle, Maven
